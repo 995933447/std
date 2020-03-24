@@ -1,0 +1,19 @@
+{
+    "name": "bobby/std",
+    "description": "reset php stdin,stdout,stderr",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bobby",
+            "email": "9959533447@qq.con"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Bobby\\Std\\": "src/"
+      }
+    }
+}
